@@ -5,6 +5,8 @@
 /* https://mycourses.aalto.fi/pluginfile.php/1427676/mod_resource/content/1/CSS%20Selector%20Cheat%20Sheet%20-%20Dark.pdf */
 /*  https://welcm.uk/downloads/CSS-Selectors-Cheatsheet.pdf */
 /*  https://jacekjeznach.com/css-selectors-cheat-sheet-pdf/ */
+/* https://www.web4college.com/css-play/ */
+/* https://www.quackit.com/css/css3/properties/ */
 /* ------------------------------------------- */
 /* child */
 ul > li{
@@ -23,3 +25,7 @@ a:active {
 /*  https://www.tutorialrepublic.com/css-reference/css3-properties.php */
 /* https://www.w3schools.com/cssref/ */
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference */
+/* Outline : is out element not from width and height */
+/* Cursor */
+/* align-content vs align-items */
+/* align-content with flex-wrap */
